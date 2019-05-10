@@ -1,0 +1,1 @@
+python manage.py celery -A FasterRunner worker --loglevel=info
